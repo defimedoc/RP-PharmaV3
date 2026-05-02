@@ -14,7 +14,7 @@ description = "mon curriculum vitae (FR)"
     - Vaccination (Prescription et Injection)
 ### **Expériences Professionnelles :**
 
-- **Directeur Opérationnel (02-2025 - présent) :** [Défimédoc](https://www.defimedoc.fr) 
+- **Directeur Opérationnel (02-2025 - Présent) :** [Défimédoc](https://www.defimedoc.fr) 
 - **Directeur du développement (01-2023 - 01-2025) :** [Défimédoc](https://www.defimedoc.fr) 
 - **Pharmacien Remplaçant (2022-2024) :** Vincelles, Joigny, Marly-la-ville, Provins, Bugeat, Plogoff, Reim et Pargny-lès-Reims.
 - **Pharmacien Titulaire (2014 - 2022):** Pharmacie POULIN, Doulaincourt (52)
